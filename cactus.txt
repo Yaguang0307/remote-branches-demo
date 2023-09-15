@@ -1,1 +1,7 @@
 this is a cactus
+Fetching allows us to download changes from a remote repository, but those changes will not be automatically
+integrated into our working files. 
+
+It lets you see what others have been working on, without having to merge those changes into your local repo. 
+
+Think of it as "please go and get the latest information from Github, but don't screw up my working directory". 
